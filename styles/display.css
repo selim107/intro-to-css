@@ -1,0 +1,17 @@
+article{
+    background-color: rgb(69, 192, 240);
+}
+h2, p{
+    text-align: center;
+}
+#second-article{
+    display: none;
+    /* visibility: hidden; */
+}
+span{
+    color: aqua;
+    /* display:block; */
+    border: 2px solid red;
+    /* height: 20px;
+    width: 25px; */
+}

@@ -1,0 +1,15 @@
+.blog{
+    background-color: bisque;
+    width: 400px;
+    margin: 50px;
+    box-shadow: 10px 5px 30px;
+    color: rgb(245, 144, 90);
+}
+#next{
+    background-color: aquamarine;
+    background-image: url(selim.jpg);
+    background-repeat: repeat-y;
+    /* background-size: cover; */
+    background-position: center;
+    height: 1200px;
+}
